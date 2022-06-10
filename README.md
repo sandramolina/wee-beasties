@@ -41,3 +41,7 @@ To visit the app on the web browser:
 Click on the play button to watch a one-minute demo!
 
 Idle State
+![image](https://user-images.githubusercontent.com/55206800/173025639-af09f01a-6458-4a0b-acb1-82995da3cfff.png)
+
+End game windows with persintant scores
+![image](https://user-images.githubusercontent.com/55206800/173025772-2b2f40a1-a4bf-4332-892d-e56104cd5f73.png)
