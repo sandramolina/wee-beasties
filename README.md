@@ -6,7 +6,7 @@ A tamogotchi like virtual pet. Its life depends on a timer and once that timer e
 
 - [@sandramolina](https://www.github.com/sandramolina)
 - [@aaronhubber](https://www.github.com/aaronhubber)
-- [@fionaberkley](https://www.github.com/finaberkley)
+- [@fionaberkley](https://github.com/fionaberkery)
 - [@andrewredman](https://www.github.com/andrewredman91)
 
 ## Installation
