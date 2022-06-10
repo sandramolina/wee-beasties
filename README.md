@@ -40,14 +40,16 @@ To visit the app on the web browser:
 
 Click on the play button to watch a one-minute demo!
 
+Quick Demo (don't forget to turn the sound on 🔊)
+https://user-images.githubusercontent.com/55206800/173055120-fd720baa-758d-447e-abd1-aea39c6d3289.mp4
+
 Idle State
 ![image](https://user-images.githubusercontent.com/55206800/173025639-af09f01a-6458-4a0b-acb1-82995da3cfff.png)
 
 End game windows with persintant scores
 ![image](https://user-images.githubusercontent.com/55206800/173025772-2b2f40a1-a4bf-4332-892d-e56104cd5f73.png)
 
-## Quick Demo
-https://user-images.githubusercontent.com/55206800/173055120-fd720baa-758d-447e-abd1-aea39c6d3289.mp4
+
 
 
 
