@@ -1,4 +1,4 @@
-# Virtual Pet - Chi-Beas
+# Virtual Pet - Wee-Beasties
 
 A tamogotchi like virtual pet. Its life depends on a timer and once that timer ends it's game over! Through triggering random events the health of the pet can be extended but there is peril also as not all events will be so helpful.
 
