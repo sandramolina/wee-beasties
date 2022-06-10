@@ -47,6 +47,8 @@ End game windows with persintant scores
 ![image](https://user-images.githubusercontent.com/55206800/173025772-2b2f40a1-a4bf-4332-892d-e56104cd5f73.png)
 
 ## Quick Demo
-https://user-images.githubusercontent.com/55206800/173054604-9ae8c4ea-7703-4836-9006-e9ece503a52d.mp4
+https://user-images.githubusercontent.com/55206800/173055120-fd720baa-758d-447e-abd1-aea39c6d3289.mp4
+
+
 
 
